@@ -10,7 +10,7 @@ We are using two datasets in our project:
 - Cora (Nodes 2708, features 1433, Edges 5429)
 - Citeseer (Nodes 3327, features 3703, Edges 4732)
 
-## Creating and Training 
+## Classifier Selection and Training 
 we used graph convolution model as classifier and was trained by splitting the data into 80% train and 20% split
 We used l2 with (5e-4) parameter and dropout regularization 30% probability to avoid overfitting
 
